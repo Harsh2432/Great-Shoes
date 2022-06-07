@@ -95,7 +95,7 @@ section {
         background-blend-mode: multiply;
         background-attachment: fixed;
         background-repeat: no-repeat;
-        background-size: 100vh;
+        background-size: 100%;
         background-position: center center;
     }
 }
